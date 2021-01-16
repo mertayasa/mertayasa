@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!-- # ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
+### ![Visitor Count](https://profile-counter.glitch.me/{mertayasa}/count.svg)
 - 🔭 I’m currently working on Pt. Appkey as a Web Developer (PHP)
 - 🌱 I’m currently learning how to live a life
 <!--
