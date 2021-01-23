@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Pt. Appkey as a Web Developer (PHP)
+- 🔭 I’m currently working at Pt. Appkey as a Web Developer (PHP)
 - 🌱 I’m currently learning how to live a life
 <!--
 - 👯 I’m looking to collaborate on ...
