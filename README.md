@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at PT. Appkey as a Web Developer (PHP)
+- 🔭 I’m currently working at World Host Group as a Hosting Suppport
 - 🌱 I’m currently learning how to live a life
 <!--
 - 👯 I’m looking to collaborate on ...
